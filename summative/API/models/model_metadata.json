@@ -87,5 +87,15 @@
     "MAPE_percent": 210.4905095774942
   },
   "python_version": "3.12.13",
-  "scikit_learn_version": "1.6.1"
+  "scikit_learn_version": "1.6.1",
+  "last_retraining": {
+    "uploaded_filename": "dataset.csv",
+    "uploaded_rows": 4834,
+    "combined_raw_rows": 4834,
+    "eligible_training_rows": 352,
+    "validation_mae_eur": 8438511.267311571,
+    "validation_rmse_eur": 12897192.557677906,
+    "validation_r2": 0.35024285115993814,
+    "retrained_at_utc": "2026-07-26T17:12:49.962789+00:00"
+  }
 }

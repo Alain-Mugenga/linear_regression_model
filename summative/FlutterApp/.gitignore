@@ -1,0 +1,14 @@
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+*.iml
+.vscode/
+android/.gradle/
+ios/Pods/
+macos/Pods/

@@ -1,0 +1,11 @@
+fastapi>=0.115,<1
+ipykernel>=6.29,<8
+joblib>=1.4,<2
+jupyterlab>=4.2,<5
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
+pydantic>=2.9,<3
+python-multipart>=0.0.12,<1
+scikit-learn>=1.5,<2
+uvicorn[standard]>=0.30,<1

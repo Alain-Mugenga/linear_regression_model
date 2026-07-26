@@ -79,6 +79,7 @@ class PlayerInput(BaseModel):
         "MAR",
         "MLI",
         "NGR",
+        "RWA",
         "SEN",
         "ZAM",
         "ZIM",

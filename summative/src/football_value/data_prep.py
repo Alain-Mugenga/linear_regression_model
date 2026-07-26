@@ -72,6 +72,7 @@ AFRICAN_NATIONALITIES = {
     "MAR": "Morocco",
     "MLI": "Mali",
     "NGR": "Nigeria",
+    "RWA": "Rwanda",
     "SEN": "Senegal",
     "ZAM": "Zambia",
     "ZIM": "Zimbabwe",

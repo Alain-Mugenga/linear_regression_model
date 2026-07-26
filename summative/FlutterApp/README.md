@@ -66,7 +66,7 @@ For Android builds, confirm this permission exists near the top of
 flutter test
 ```
 
-## Task 3 rubric coverage
+## Task 3 coverage
 
 - One page: yes.
 - Prediction endpoint: public Render `/predict` URL.

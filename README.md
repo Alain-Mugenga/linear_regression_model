@@ -59,7 +59,7 @@ The prediction endpoint accepts a JSON request through `POST /predict` and retur
 
 ## YouTube Demo
 
-**Demo video:** 
+**Demo video: https://youtu.be/wVbp-9epVpE 
 
 ## Running the Flutter App
 

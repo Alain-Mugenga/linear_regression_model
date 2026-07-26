@@ -48,15 +48,15 @@ http://127.0.0.1:8000/docs
 
 ## Submission links
 
-- Public API endpoint: ``
+- Public API endpoint: 
+Swagger UI : https://african-football-market-value-api.onrender.com/docs
+Health Check : https://african-football-market-value-api.onrender.com/health
 - YouTube demo: ``
 
 ## Flutter app
 
-The `FlutterApp` directory is currently a placeholder. Replace it with the
-completed Flutter project and add its run instructions here before submission.
 
 
 ## UV lock file
 
-Run `summative/setup_project.bat` once on your computer. It creates a public-PyPI `uv.lock`. Commit the generated `uv.lock` to GitHub before final submission.
+
